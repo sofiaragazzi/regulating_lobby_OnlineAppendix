@@ -23,4 +23,12 @@ This is the Online Appendix containing data and R scripts.
 
 - script_04: descriptive statistics
 
+- fuz_tr_01: preprocessing for the robustness test
 
+- fuz_tr_C: analysis of HP.1 with concentrated coder's bias
+
+- fuz_tr_D: analysis of HP.1 with dilated coder's bias
+
+- fuz_tr_I: analysis of HP.1 with intensified coder's bias
+
+- fuz_tr_M: analysis of HP.1 with moderated coder's bias
