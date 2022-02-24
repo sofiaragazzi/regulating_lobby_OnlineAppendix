@@ -1,4 +1,4 @@
-# "Does lobbying regulation affect trust in government? a Qualitative Comparative Analysis on selected European countries"
+# Does lobbying regulation affect trust in government? a Qualitative Comparative Analysis on selected European countries
 
 This is the Online Appendix containing data and R scripts. 
 
