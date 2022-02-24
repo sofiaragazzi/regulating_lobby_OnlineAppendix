@@ -5,7 +5,7 @@
 
 
 # Source setup scripts:
-source(here::here("Desktop", "TGL", "research", "scr","scr_00.R"))
+source(here::here("scr","scr_00.R"))
 
 # Importing the datasets
 lobby_qca <- read_csv("data/lobby_QCA.csv")

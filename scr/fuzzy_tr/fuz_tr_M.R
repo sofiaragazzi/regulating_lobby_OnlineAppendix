@@ -5,7 +5,7 @@
 
 
 # Source setup scripts:
-source(here::here("Desktop", "TGL", "research", "scr","scr_00.R"))
+source(here::here("scr","scr_00.R"))
 
 # Load data:
 datasetm <- read.csv("data/fuzzy_trans/datasetm.csv", row.names = 1)

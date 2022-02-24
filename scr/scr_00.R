@@ -19,6 +19,4 @@ library(QCA)
 library(QCAtools)
 library(SetMethods)
 
-# Setting working directory as project folder:
-setwd("/Users/sof/Desktop/TGL/research")
       

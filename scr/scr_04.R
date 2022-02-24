@@ -4,7 +4,7 @@
 ############################################
 
 # Source setup scripts:
-source(here::here("Desktop", "TGL", "research", "scr","scr_00.R"))
+source(here::here("scr","scr_00.R"))
 load("data/lobby.Rda")
 
 # dataset with trust
